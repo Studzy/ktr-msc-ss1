@@ -1,0 +1,13 @@
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\bin\Debug\netcoreapp3.1\ktr-msc-ss1.exe
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\bin\Debug\netcoreapp3.1\ktr-msc-ss1.deps.json
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\bin\Debug\netcoreapp3.1\ktr-msc-ss1.runtimeconfig.json
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\bin\Debug\netcoreapp3.1\ktr-msc-ss1.runtimeconfig.dev.json
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\bin\Debug\netcoreapp3.1\ktr-msc-ss1.dll
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\bin\Debug\netcoreapp3.1\ktr-msc-ss1.pdb
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\obj\Debug\netcoreapp3.1\ktr-msc-ss1.csprojAssemblyReference.cache
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\obj\Debug\netcoreapp3.1\ktr-msc-ss1.AssemblyInfoInputs.cache
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\obj\Debug\netcoreapp3.1\ktr-msc-ss1.AssemblyInfo.cs
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\obj\Debug\netcoreapp3.1\ktr-msc-ss1.csproj.CoreCompileInputs.cache
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\obj\Debug\netcoreapp3.1\ktr-msc-ss1.dll
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\obj\Debug\netcoreapp3.1\ktr-msc-ss1.pdb
+D:\Jeremy\Documents\Logiciel\repos\ktr-msc-ss1\obj\Debug\netcoreapp3.1\ktr-msc-ss1.genruntimeconfig.cache
